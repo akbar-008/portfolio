@@ -1,0 +1,129 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color: #e8f4f8;
+            margin: 0;
+        }
+
+        header {
+            background-color: antiquewhite;
+            color: #ffffff;
+            text-align: center;
+            padding: 25px;
+        }
+
+        .content {
+            background-color: white;
+            width: 80%;
+            margin: 30px auto;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            width: 200px;
+            display: block;
+            margin: 20px auto;
+        }
+
+        p {
+            color: black;
+            font-size: 16px;
+            line-height: 1.6;
+            text-align: center;
+        }
+
+        .links {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .links a {
+            text-decoration: none;
+            background-color: antiquewhite;
+            color: black;
+            padding: 10px 20px;
+            margin: 5px;
+            display: inline-block;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .links a:hover {
+            background-color: transparent;
+        }
+
+        footer {
+            background-color: antiquewhite;
+            color: black;
+            text-align: center;
+            padding: 10px;
+        }
+    #header1{
+         background-color: antiquewhite;
+         color: black;
+            text-align: center;
+            padding: 25px;
+    }
+    #header2{
+         background-color: antiquewhite;
+         color: black;
+            text-align: center;
+            padding: 25px;
+    }
+    #header3{
+         background-color: antiquewhite;
+         color: #ffffff;
+            text-align: center;
+            padding: 25px;
+    }
+
+    h1, h5 {
+        color: black;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    h1 {
+        font-size: 32px;
+    }
+
+    h5 {
+        font-size: 18px;
+    }
+
+    ul, ul {
+        color: black;
+        font-size: 16px;
+        line-height: 1.8;
+        max-width: 800px;
+        
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+
+    strong {
+        color: black;
+        font-weight: bold;
+    }
+
+    a {
+        color: antiquewhite;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+        color: antiquewhite;
+    }
+
+    center {
+        margin: 20px 0;
+    }
+
+    u {
+        text-decoration: underline;
+        color: black;
+    }
